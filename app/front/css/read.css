@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&family=Roboto+Condensed:wght@300&display=swap');
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Dosis', sans-serif;
+}
+
+table{
+    width: 700px;
+    border-collapse: collapse;   
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+}
+
+td{
+    border: 1px solid #000;
+    padding: 8px;
+}
+
+.acoes{
+    text-align: center;
+}
+
+.acoes a{
+    text-decoration: none;
+}
